@@ -1,0 +1,15 @@
+# 微信小程序配置（测试模式可以留空）
+WECHAT_APPID=
+WECHAT_SECRET=
+
+# JWT密钥（随便写一个复杂字符串）
+JWT_SECRET=my_super_secret_key_12345
+
+# SMTP邮件配置（QQ邮箱示例）
+SMTP_HOST=smtp.qq.com
+SMTP_PORT=465
+SMTP_USER=your_email@qq.com
+SMTP_PASS=your_smtp_authorization_code
+
+# 服务器端口
+PORT=3000
